@@ -1,0 +1,29 @@
+{
+  "people": [
+    {"id":"p1","name":"Sarah Chen","role":"Angel investor","industry":"legaltech","stage_focus":"seed","tags":["investor","legal","AI"],"bio":"Ex-lawyer, writes $25k checks","city":"San Francisco","date":"2026-10-12","start":"09:00","end":"18:00","likes_back":true},
+    {"id":"p2","name":"Marcus Reid","role":"Managing partner, mid-size law firm","industry":"legal services","stage_focus":"","tags":["law-firm","legal","design-partner"],"bio":"Runs a 40-lawyer firm, eager to pilot AI tools","city":"San Francisco","date":"2026-10-12","start":"10:00","end":"17:00","likes_back":true},
+    {"id":"p3","name":"Priya Nair","role":"VC partner","industry":"enterprise SaaS","stage_focus":"series A","tags":["investor","SaaS","B2B"],"bio":"Leads Series A in horizontal SaaS","city":"San Francisco","date":"2026-10-12","start":"09:00","end":"15:00","likes_back":true},
+    {"id":"p4","name":"Dan Okafor","role":"Founder","industry":"enterprise SaaS","stage_focus":"series A","tags":["founder","SaaS","sales"],"bio":"Building CRM add-ons for sales teams","city":"San Francisco","date":"2026-10-12","start":"12:00","end":"20:00","likes_back":false},
+    {"id":"p5","name":"Lena Fischer","role":"Product designer","industry":"design","stage_focus":"","tags":["design","UX","freelance"],"bio":"Designs B2B dashboards for startups","city":"San Francisco","date":"2026-10-12","start":"08:00","end":"13:00","likes_back":true},
+    {"id":"p6","name":"Tom Alvarez","role":"Crypto founder","industry":"web3","stage_focus":"pre-seed","tags":["founder","crypto","web3"],"bio":"Building a DeFi wallet","city":"San Francisco","date":"2026-10-12","start":"09:00","end":"18:00","likes_back":false},
+    {"id":"p7","name":"Aisha Rahman","role":"General counsel","industry":"legal services","stage_focus":"","tags":["legal","operator","AI","in-house"],"bio":"GC at a fintech, evaluating legal AI","city":"San Francisco","date":"2026-10-12","start":"13:00","end":"19:00","likes_back":true},
+    {"id":"p8","name":"Hannah Brooks","role":"Angel investor","industry":"legaltech","stage_focus":"seed","tags":["investor","legal","AI"],"bio":"Former Big Law partner turned angel","city":"New York","date":"2026-10-20","start":"12:00","end":"19:00","likes_back":true},
+    {"id":"p9","name":"David Kim","role":"Managing partner, litigation boutique","industry":"legal services","stage_focus":"","tags":["law-firm","legal","design-partner"],"bio":"Boutique litigation firm, wants better doc review","city":"New York","date":"2026-10-20","start":"13:00","end":"18:00","likes_back":true},
+    {"id":"p10","name":"Rachel Stern","role":"VC partner","industry":"enterprise SaaS","stage_focus":"series A","tags":["investor","SaaS","B2B"],"bio":"Invests in workflow software","city":"New York","date":"2026-10-20","start":"12:00","end":"17:00","likes_back":true},
+    {"id":"p11","name":"Jordan Blake","role":"Founder","industry":"enterprise SaaS","stage_focus":"seed","tags":["founder","SaaS","sales"],"bio":"Sales-enablement platform","city":"New York","date":"2026-10-20","start":"11:00","end":"20:00","likes_back":false},
+    {"id":"p12","name":"Mei Tanaka","role":"Product designer","industry":"design","stage_focus":"","tags":["design","UX","brand"],"bio":"Brand and product design for fintech","city":"New York","date":"2026-10-20","start":"13:00","end":"18:00","likes_back":true},
+    {"id":"p13","name":"Carlos Mendez","role":"Crypto investor","industry":"web3","stage_focus":"seed","tags":["investor","crypto","web3"],"bio":"Token funds and DeFi bets","city":"New York","date":"2026-10-20","start":"12:00","end":"19:00","likes_back":false},
+    {"id":"p14","name":"Elena Petrova","role":"Legal ops lead","industry":"legal services","stage_focus":"","tags":["legal","operator","AI","in-house"],"bio":"Runs legal ops at a large bank, buys legal AI","city":"New York","date":"2026-10-20","start":"14:00","end":"20:00","likes_back":true},
+    {"id":"p15","name":"Greg Thompson","role":"Growth marketer","industry":"marketing","stage_focus":"","tags":["marketing","growth","B2C"],"bio":"Consumer growth consultant","city":"New York","date":"2026-10-20","start":"12:00","end":"18:00","likes_back":false}
+  ],
+  "events": [
+    {"id":"e1","title":"LegalTech Founders Dinner","city":"San Francisco","date":"2026-10-12","time":"19:00","size":"small","tags":["legal","AI","founders"],"source":"Luma","url":"https://lu.ma/legaltech-sf"},
+    {"id":"e2","title":"SaaS Growth Mixer","city":"San Francisco","date":"2026-10-12","time":"18:30","size":"large","tags":["SaaS","B2B","sales"],"source":"Luma","url":"https://lu.ma/saas-mixer-sf"},
+    {"id":"e3","title":"Seed Investor Coffee Hour","city":"San Francisco","date":"2026-10-12","time":"10:00","size":"small","tags":["investor","seed","founders"],"source":"Luma","url":"https://lu.ma/seed-coffee-sf"},
+    {"id":"e4","title":"Web3 Builders Meetup","city":"San Francisco","date":"2026-10-12","time":"17:00","size":"large","tags":["crypto","web3"],"source":"Luma","url":"https://lu.ma/web3-sf"},
+    {"id":"e5","title":"Legal AI Roundtable","city":"New York","date":"2026-10-20","time":"16:00","size":"small","tags":["legal","AI","law-firm"],"source":"Luma","url":"https://lu.ma/legal-ai-nyc"},
+    {"id":"e6","title":"Enterprise SaaS Happy Hour","city":"New York","date":"2026-10-20","time":"18:00","size":"large","tags":["SaaS","B2B","sales"],"source":"Luma","url":"https://lu.ma/saas-hh-nyc"},
+    {"id":"e7","title":"Founders & Funders Dinner","city":"New York","date":"2026-10-20","time":"19:00","size":"small","tags":["investor","founders","legal","AI"],"source":"Luma","url":"https://lu.ma/ff-dinner-nyc"},
+    {"id":"e8","title":"Design x Startups Salon","city":"New York","date":"2026-10-20","time":"17:30","size":"medium","tags":["design","UX","startups"],"source":"Luma","url":"https://lu.ma/design-nyc"}
+  ]
+}
