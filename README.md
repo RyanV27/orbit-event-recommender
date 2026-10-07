@@ -11,7 +11,9 @@ Built for a buildathon around [mem0](https://mem0.ai) long-term memory.
 3. **Swipe**: likes, passes and free-text feedback are written to mem0 in the background.
 4. **Come back**: a new session greets you with your stored profile and ranks a new city using your past swipes.
 
-See [demo-walkthrough/index.html](demo-walkthrough/index.html) for a screenshot tour, and [DEMO.md](DEMO.md) for the click-by-click demo script.
+![Orbit's New York deck, shaped by San Francisco swipes](demo-walkthrough/img/07-nyc-deck.jpg)
+
+See the [demo walkthrough](demo-walkthrough/README.md) for a screenshot tour, and [DEMO.md](DEMO.md) for the click-by-click demo script.
 
 ## Stack
 
